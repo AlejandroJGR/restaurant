@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.997a1569.css",
-    "main.js": "/static/js/main.624c08af.js",
-    "static/media/meal.mp4": "/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
-    "static/media/bg.png": "/static/media/bg.3d421b1b5682e1b67deb.png",
-    "static/media/welcome.png": "/static/media/welcome.d724eb984456d9c97470.png",
-    "static/media/findus.png": "/static/media/findus.585c393ccd3671513743.png",
-    "static/media/laurels.png": "/static/media/laurels.e760828692795d4aafd7.png",
-    "static/media/chef.png": "/static/media/chef.02d6c5b61bfdc70303b4.png",
-    "static/media/menu.png": "/static/media/menu.a8287c67809afebcc280.png",
-    "static/media/gallery04.png": "/static/media/gallery04.c36a695f8a3b9d311106.png",
-    "static/media/gallery03.png": "/static/media/gallery03.b2d50180e8590d4dd330.png",
-    "static/media/gallery02.png": "/static/media/gallery02.27663bd9016b72ccd328.png",
-    "static/media/gallery01.png": "/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "main.css": "/static/css/main.6eb8c963.css",
+    "main.js": "/static/js/main.7b0fe727.js",
+    "static/media/meal.mp4": "/static/media/meal.8451e76cdfce8cbbb811.mp4",
+    "static/media/laurels.png": "/static/media/laurels.bf7d94576cf38ad60b7e.png",
+    "static/media/menu.png": "/static/media/menu.8ecaaf80fad7640e45f8.png",
+    "static/media/gallery03.png": "/static/media/gallery03.ad521efe24a0312a8543.png",
+    "static/media/gallery04.png": "/static/media/gallery04.72270cd1044dd0487749.png",
     "static/media/knife.png": "/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/welcome.jpg": "/static/media/welcome.fdb3a9f8abdeea2f27c8.jpg",
+    "static/media/bg.jpg": "/static/media/bg.0ae2e90a0f5210467c2d.jpg",
     "static/media/overlaybg.png": "/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery02.png": "/static/media/gallery02.d4b96ee8eb8ad0811b4a.png",
+    "static/media/gallery01.png": "/static/media/gallery01.6a718f9996e0f8e33abd.png",
+    "static/media/findus.jpg": "/static/media/findus.4b04ee1239cd80d8cf58.jpg",
+    "static/media/chef.jpg": "/static/media/chef.4f3fcd123e08a0f90834.jpg",
     "static/media/G.png": "/static/media/G.b571eb82e589ec305ec9.png",
     "static/media/logo.png": "/static/media/logo.0286194c03de0a90dac9.png",
     "static/media/award02.png": "/static/media/award02.8bbdd51499739653b003.png",
@@ -24,11 +24,11 @@
     "static/media/sign.png": "/static/media/sign.9bf0bd90ad4caa17991f.png",
     "index.html": "/index.html",
     "static/media/spoon.svg": "/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
-    "main.997a1569.css.map": "/static/css/main.997a1569.css.map",
-    "main.624c08af.js.map": "/static/js/main.624c08af.js.map"
+    "main.6eb8c963.css.map": "/static/css/main.6eb8c963.css.map",
+    "main.7b0fe727.js.map": "/static/js/main.7b0fe727.js.map"
   },
   "entrypoints": [
-    "static/css/main.997a1569.css",
-    "static/js/main.624c08af.js"
+    "static/css/main.6eb8c963.css",
+    "static/js/main.7b0fe727.js"
   ]
 }
