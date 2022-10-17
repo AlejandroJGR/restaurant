@@ -1,5 +1,6 @@
-import React from "react";
-import { FiFacebook, FiTwitter, FiInstagram } from "react-icons/fi";
+import { FiInstagram } from "react-icons/fi";
+import { DiGithub } from "react-icons/di";
+import {AiOutlineLinkedin} from 'react-icons/ai'
 import { FooterOverlay, Newsletter } from "../../components";
 import { images } from "../../constants";
 import "./Footer.css";
@@ -28,9 +29,15 @@ const Footer = () => {
           </p>
           <img src={images.spoon} alt="spoon" className="spoon__img" />
           <div className="app__footer-links_icons">
-            <FiFacebook />
-            <FiTwitter />
-            <FiInstagram />
+            <a href="https://github.com/AlejandroJGR">
+              <DiGithub />
+            </a>
+            <a href="https://www.linkedin.com/in/alejandro-javier-gomez-ramirez-06923715a">
+              <AiOutlineLinkedin />
+            </a>
+            <a href="https://www.instagram.com/alejandrojg23/">
+              <FiInstagram />
+            </a>
           </div>
         </div>
         <div className="app__footer-links_work">

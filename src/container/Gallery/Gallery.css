@@ -20,6 +20,9 @@
 .app__gallery-content button{
   margin-top: 1rem;
 }
+.app__gallery-content .custom__button{
+  font-size: 22px
+}
 
 .app__gallery-images{
   display: flex;
